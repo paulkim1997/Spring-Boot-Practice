@@ -5,3 +5,5 @@
 DB Tool : DBeaver
 
 CURD 동작 Tool : Postman
+
+MyBatis 사용

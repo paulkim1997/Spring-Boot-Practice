@@ -1,0 +1,23 @@
+
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://database-1.cqq9a2ewlynb.ap-northeast-2.rds.amazonaws.com:3306/TEST?serverTimezone=UTC&autoReconnect=true&useUnicode=true&characterEncoding=utf8
+    username: admin
+    password: rlatjdtn97
+    hikari:
+      connection-init-sql: SELECT 1
+
+  devtools:
+    restart:
+      enabled: true
+    livereload:
+      enabled: true
+
+
+server:
+  port: 8080
+
+
+
+

@@ -1,4 +1,4 @@
-# 스프링부트 CURD 연습
+# 스프링부트 CRUD 연습
 
 데이터베이스 : Amazon RDS MySQL
 

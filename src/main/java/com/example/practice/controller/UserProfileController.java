@@ -2,11 +2,8 @@ package com.example.practice.controller;
 
 import com.example.practice.mapper.UserProfileMapper;
 import com.example.practice.model.UserProfile;
-
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
-
 
 @RestController
 public class UserProfileController {
